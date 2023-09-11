@@ -18,6 +18,9 @@ libraryDependencies ++=Seq(
 //Natural Language processing
 "org.deeplearning4j" % "deeplearning4j-nlp" % "1.0.0-M2.1",
 
+// Statistics
+"org.opendaylight.openflowplugin.model" % "model-flow-statistics" % "0.16.2",
+
 //Data Visualization
 //"com.cibo" %% "evilplot" % "0.8.0",
 "org.plotly-scala" %% "plotly-render" % "0.8.4",
